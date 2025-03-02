@@ -1,0 +1,42 @@
+[
+    {
+        "agent": "Lighter",
+        "attribute": "Unknown",
+        "speciality": "Unknown",
+        "type": "Unknown",
+        "faction": "Unknown",
+        "rarity": "Unknown",
+        "stats": {
+            "hp": 8253,
+            "def": 612,
+            "atk": 797,
+            "crit_rate": 0.05,
+            "crit_dmg": 0.5,
+            "pen_ratio": 0.0,
+            "impact": 137,
+            "anomaly_mastery": 91,
+            "anomaly_proficiency": 90,
+            "energy_regen": 1.2
+        }
+    },
+    {
+        "agent": "Belle",
+        "attribute": "Physical",
+        "speciality": "Burst",
+        "type": "Attack",
+        "faction": "Cunning Hares",
+        "rarity": 5,
+        "stats": {
+            "hp": 12000,
+            "def": 800,
+            "atk": 1500,
+            "crit_rate": 0.1,
+            "crit_dmg": 1.5,
+            "pen_ratio": 0.1,
+            "impact": 200,
+            "anomaly_mastery": 110,
+            "anomaly_proficiency": 105,
+            "energy_regen": 1.5
+        }
+    }
+]
