@@ -1,11 +1,10 @@
 [
     {
         "agent": "Lighter",
-        "attribute": "Unknown",
-        "speciality": "Unknown",
-        "type": "Unknown",
-        "faction": "Unknown",
-        "rarity": "Unknown",
+        "attribute": "Fire",
+        "speciality": "Stun",
+        "faction": "Sons of Calydon",
+        "rarity": "S Rank",
         "stats": {
             "hp": 8253,
             "def": 612,
